@@ -18,7 +18,18 @@ input = {
 }
 
 def handle_cleanings(input)
-  # Write your code here
+  # Create an empty object
+  # Return if bookings is empty
+  # For each booking, create a mission
+  # Get the number of rooms of the listing in a variable
+  # Create a mission for the start date: 10€ * room
+  # Create a mission for the end date: 5€ * room
+  # For each reservation
+  # Get the number of rooms of the listing in a variable
+  # Get the end date of the booking in a variable
+  # Create a mission if end_date different from booking end_date
+  # Return object
+
 end
 
 p handle_cleanings(input)
